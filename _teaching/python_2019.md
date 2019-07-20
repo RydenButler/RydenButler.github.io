@@ -4,7 +4,6 @@ collection: teaching
 type: "summer course"
 permalink: /teaching/python_2019
 venue: "Washington University in St. Louis, Political Science"
-date: 2019 (summer)
 ---
 
 # Python Course 2019
