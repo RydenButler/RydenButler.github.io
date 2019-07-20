@@ -1,13 +1,11 @@
 ---
 title: "Introduction to Python"
 collection: teaching
-type: "summer course"
+type: "Summer Course"
 permalink: /teaching/python_2019
 venue: "Washington University in St. Louis, Political Science"
+date: 2019
 ---
-
-# Python Course 2019
-
 Material for 2019 WashU summer course "Introduction to Python."
 
 
@@ -23,10 +21,10 @@ Material for 2019 WashU summer course "Introduction to Python."
 | Day03 | Fri. 8/09 | Exception handling |     |
 | Day04 | Mon. 8/12 | Scraping | HW2 assigned (due Fri. 8/16)     |
 | Day05 | Wed. 8/14 | Text |      |
-| Day06 | Fri. 8/16 | APIs | HW3 assigned (due Wed 8/21)    |
+| Day06 | Fri. 8/16 | APIs | HW3 assigned (due Wed. 8/21)    |
 | Day07 | Mon. 8/19 | SQL |  
 | Day08 | Wed. 8/21 | Sorting & Recursion |HW4 assigned (due Mon. 8/26)      |
-| Day09 | Fri. 8/23 | Advanced Data Structures |     |
+| Day09 | Fri. 8/23 | Advanced Data Structures | HW5 assigned (due Mon. 8/26)     |
 
 
 
