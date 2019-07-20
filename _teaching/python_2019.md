@@ -4,7 +4,7 @@ collection: teaching
 type: "Summer Course"
 permalink: /teaching/python_2019
 venue: "Washington University in St. Louis, Political Science"
-date: 2019
+date: 2019-08-05
 ---
 Material for 2019 WashU summer course "Introduction to Python."
 
