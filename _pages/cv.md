@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Political Science --- Washington University in St. Louis (expected May 2021)
-* M.A. in Statistics --- Washington University in St. Louis (expected May 2020)
+* A.M. in Statistics --- Washington University in St. Louis (expected May 2020)
 * M.A. in Political Science --- Washington University in St. Louis  (2018)
 * B.A. in Political Science, History, Economics --- University of Miami (2015, *magna cum laud*)
 
@@ -24,23 +24,29 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 {% endcomment %}
-  
-Skills
-======
-* R
-* Python
-* SQL
-* C++
-* BUGS / JAGS / STAN
-* HTML 5
-* CSS
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Skills
+======
+### Expert:
+* R
+* Python
+* SQL
+
+### Intermediate:
+* C++
+* BUGS / JAGS / STAN
+
+### Familiar:
+* HTML 5
+* CSS
+* Apache Spark
+
 {% comment %}
 Talks
 ======

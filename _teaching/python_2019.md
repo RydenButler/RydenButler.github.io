@@ -6,7 +6,7 @@ permalink: /teaching/python_2019
 venue: "Washington University in St. Louis, Political Science"
 date: 2019-08-05
 ---
-Material for 2019 WashU summer course "Introduction to Python."
+Material for 2019 WashU summer course "Introduction to Python" available on \href{https://github.com/RydenButler/PythonCourse2019}{Github}.
 
 
 ## Tentative Schedule
