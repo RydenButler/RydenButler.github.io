@@ -4,7 +4,8 @@ excerpt: "Using Gaussian process regression, we develop an active learning frame
 collection: portfolio
 ---
 
-<label>
-  Research in progress
-  <progress>Researching...</progress>
-</label>
+Using Gaussian process regression, we develop an active learning framework to improve the efficiency of human coded political texts.
+
+
+Research in progress
+<progress>Researching...</progress>
