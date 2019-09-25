@@ -13,7 +13,7 @@ redirect_from:
 .row{clear:both}
 
 .column{
-    width: 50%;
+    width: 32%;
     float: left;
 }
 </style>
