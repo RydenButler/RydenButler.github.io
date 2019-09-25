@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Political Science --- Washington University in St. Louis (expected May 2020)
+* Ph.D in Political Science --- Washington University in St. Louis (expected May 2021)
 * A.M. in Statistics --- Washington University in St. Louis (expected May 2020)
 * M.A. in Political Science --- Washington University in St. Louis  (2018)
 * B.A. in Political Science, History, Economics --- University of Miami (2015, *magna cum laud*)
@@ -28,12 +28,6 @@ Work experience
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-In Progress
-======
-  <ul>{% for post in site.papers %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
