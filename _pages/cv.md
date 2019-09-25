@@ -40,6 +40,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Current Research
+======
+  <ul>{% for post in site.portfolio %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Skills
 ======
 <div class="row">
@@ -49,7 +55,7 @@ Skills
             <li>R</li>
             <li>Python</li>
             <li>SQL</li>
-            <li>\LaTeX</li>
+            <li>LaTeX</li>
         </ul>
     </div>
     <div class="column">
