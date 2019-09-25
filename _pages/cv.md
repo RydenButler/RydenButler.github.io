@@ -9,6 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+<style type="text/css" rel="stylesheet">
+.row{clear:both}
+
+.column{
+    width: 50%;
+    float: left;
+}
+</style>
+
 Education
 ======
 * Ph.D in Political Science --- Washington University in St. Louis (expected May 2020)
