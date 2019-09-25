@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Political Science --- Washington University in St. Louis (expected May 2021)
+* Ph.D in Political Science --- Washington University in St. Louis (expected May 2020)
 * A.M. in Statistics --- Washington University in St. Louis (expected May 2020)
 * M.A. in Political Science --- Washington University in St. Louis  (2018)
 * B.A. in Political Science, History, Economics --- University of Miami (2015, *magna cum laud*)
@@ -33,19 +33,31 @@ Publications
 
 Skills
 ======
-### Expert:
-* R
-* Python
-* SQL
-
-### Intermediate:
-* C++
-* BUGS / JAGS / STAN
-
-### Familiar:
-* HTML 5
-* CSS
-* Apache Spark
+<div class="row">
+    <div class="column">
+        <h2>Expert:</h2>
+        <ul>
+            <li>R</li>
+            <li>Python</li>
+            <li>SQL</li>
+        </ul>
+    </div>
+    <div class="column">
+        <h2>Intermediate:</h2>
+        <ul>
+            <li>C++</li>
+            <li>JAGS / STAN</li>
+        </ul>
+    </div>
+    <div class="column">
+        <h2>Familiar:</h2>
+        <ul>
+            <li>HTML 5</li>
+            <li>CSS</li>
+            <li>Apache Spark</li>
+        </ul>
+    </div>
+</div>
 
 {% comment %}
 Talks
