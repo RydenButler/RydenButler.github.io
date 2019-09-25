@@ -49,6 +49,7 @@ Skills
             <li>R</li>
             <li>Python</li>
             <li>SQL</li>
+            <li>\LaTeX</li>
         </ul>
     </div>
     <div class="column">
@@ -67,6 +68,12 @@ Skills
         </ul>
     </div>
 </div>
+
+Conference Presentations
+======
+* Polmeth (2018, 2019)
+* Midwest Political Science Association Annual Meeting (2019)
+* Southern Political Science Association Annual Meeting (2015)
 
 {% comment %}
 Talks
