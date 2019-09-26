@@ -73,11 +73,10 @@ Work experience
             <li>HTML 5</li>
             <li>CSS</li>
             <li>Apache Spark</li>
+            <li>Stata</li>
         </ul>
     </div>
 </div>
-
-<font color="white">Will this space properly?</font>
 
 <u>Conference Presentations</u>
 ======
