@@ -1,5 +1,5 @@
 ---
-title: "Calculating Unbiased Treatment Effects Under Non-Random Attrition (with David Miller and Jacob Montgomery)"
+title: "Estimating Unbiased Treatment Effects Under Non-Random Attrition (with David Miller and Jacob Montgomery)"
 excerpt: ""
 collection: portfolio
 ---
@@ -7,7 +7,7 @@ collection: portfolio
 .progress { margin-left: auto; margin-right:auto; }
 </style>
 
-[Working code](https://github.com/RydenButler/attritR)
+[Code](https://github.com/RydenButler/attritR)
 
 Research in progress
 <progress>Researching...</progress>
