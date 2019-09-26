@@ -10,19 +10,17 @@ redirect_from:
 {% include base_path %}
 
 <style type="text/css" rel="stylesheet">
-.row{clear:both}
-
 .column{
     width: 32%;
     float: left;
 }
 </style>
 
-__Education__
+<u>Education</u>
 ======
 * Ph.D in Political Science --- Washington University in St. Louis (expected May 2020)
 * A.M. in Statistics --- Washington University in St. Louis (expected May 2020)
-* M.A. in Political Science --- Washington University in St. Louis  (2018)
+* M.A. in Political Science --- Washington University in St. Louis  (2017)
 * B.A. in Political Science, History, Economics --- University of Miami (2015, *magna cum laud*)
 
 {% comment %}
@@ -48,8 +46,7 @@ __Current Research__
 
 __Skills__
 ======
-<div class="row">
-    <div class="column">
+<div class="column">
         <h2>Expert:</h2>
         <ul>
             <li>R</li>
@@ -73,7 +70,7 @@ __Skills__
             <li>Apache Spark</li>
         </ul>
     </div>
-</div>
+
 
 __Conference Presentations__
 ======
