@@ -6,6 +6,7 @@ collection: portfolio
 
 Using Gaussian process regression, we develop an active learning framework to improve the efficiency of human coded political texts.
 
-
+<div align=center>
 Research in progress
 <progress>Researching...</progress>
+</div>

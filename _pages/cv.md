@@ -10,6 +10,8 @@ redirect_from:
 {% include base_path %}
 
 <style type="text/css" rel="stylesheet">
+.row{clear:both}
+
 .column{
     width: 32%;
     float: left;
@@ -32,20 +34,21 @@ Work experience
   * Supervisor: Professor Git
 {% endcomment %}
 
-__Publications__
+<u>Publications</u>
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-__Current Research__
+<u>Current Research</u>
 ======
   <ul>{% for post in site.portfolio %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-__Skills__
+<u>Skills</u>
 ======
+<div class='row'>
 <div class="column">
         <h2>Expert:</h2>
         <ul>
@@ -70,9 +73,9 @@ __Skills__
             <li>Apache Spark</li>
         </ul>
     </div>
+</div>
 
-
-__Conference Presentations__
+<u>Conference Presentations</u>
 ======
 * Polmeth (2018, 2019)
 * Midwest Political Science Association Annual Meeting (2019)
@@ -86,7 +89,7 @@ Talks
   {% endfor %}</ul>
 {% endcomment %}
   
-__Teaching__
+<u>Teaching</u>
 ======
 *Instructor of Record*
 
