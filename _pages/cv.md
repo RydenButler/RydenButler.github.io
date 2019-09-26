@@ -76,7 +76,7 @@ Work experience
         </ul>
     </div>
 </div>
-</div>
+<div></div>
 
 <u>Conference Presentations</u>
 ======
@@ -96,9 +96,7 @@ Talks
 ======
 *Instructor of Record*
 
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Introduction to Python, Summer 2019
 
 *Teaching Assistant*
 
