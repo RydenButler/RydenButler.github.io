@@ -1,5 +1,5 @@
 ---
-title: "May It Please the President? The Role of Deference to Executive Power in Supreme Court Nominations (with JB Duck-Mayr, David Miller, and Erin Rossiter)"
+title: "May It Please the President? The Role of Deference to Executive Power in Supreme Court Nominations (with JBrandon Duck-Mayr, David Miller, and Erin Rossiter)"
 excerpt: ""
 collection: portfolio
 ---
