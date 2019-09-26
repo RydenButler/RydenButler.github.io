@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -18,7 +18,7 @@ redirect_from:
 }
 </style>
 
-Education
+__Education__
 ======
 * Ph.D in Political Science --- Washington University in St. Louis (expected May 2020)
 * A.M. in Statistics --- Washington University in St. Louis (expected May 2020)
@@ -34,19 +34,19 @@ Work experience
   * Supervisor: Professor Git
 {% endcomment %}
 
-Publications
+__Publications__
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Current Research
+__Current Research__
 ======
   <ul>{% for post in site.portfolio %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Skills
+__Skills__
 ======
 <div class="row">
     <div class="column">
@@ -75,7 +75,7 @@ Skills
     </div>
 </div>
 
-Conference Presentations
+__Conference Presentations__
 ======
 * Polmeth (2018, 2019)
 * Midwest Political Science Association Annual Meeting (2019)
@@ -89,8 +89,27 @@ Talks
   {% endfor %}</ul>
 {% endcomment %}
   
-Teaching
+__Teaching__
 ======
+*Instructor of Record*
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+*Teaching Assistant*
+
+* Poli Sci 581: Quantitative Political Methodology, Spring 2019
+(Instructor: Guillermo Rosas)
+* Poli Sci 582: Quantitative Political Methodology II, Fall 2018
+(Instructor: Jacob Montgomery)
+* Poli Sci 358: Law, Politics, and Society, Spring 2018
+(Instructor: James Gibson)
+* Poli Sci 4280: Political Intolerance in Western Politics, Spring 2018
+(Instructor: James Gibson)
+* Poli Sci 5052: Mathematical Modeling in Political Science, Fall 2017
+(Instructor: Randall Calvert)
+* Poli Sci 3211: Public Opinion and American Democracy, Spring 2017
+(Instructor: Betsy Sinclair)
+* Poli Sci 3255: Development of the American Constitution, Fall 2016
+(Instructor: Randall Calvert)
