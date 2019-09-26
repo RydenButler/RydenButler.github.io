@@ -74,7 +74,9 @@ Work experience
         </ul>
     </div>
 </div>
+
 <br>
+
 <u>Conference Presentations</u>
 ======
 * Polmeth (2018, 2019)
