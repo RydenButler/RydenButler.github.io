@@ -22,8 +22,8 @@ redirect_from:
 
 <u>Education</u>
 ======
-* Ph.D in Political Science --- Washington University in St. Louis (expected May 2020)
-* A.M. in Statistics --- Washington University in St. Louis (expected May 2020)
+* Ph.D in Political Science --- Washington University in St. Louis (2021)
+* A.M. in Statistics --- Washington University in St. Louis (2021)
 * M.A. in Political Science --- Washington University in St. Louis  (2017)
 * B.A. in Political Science, History, Economics --- University of Miami (2015, *magna cum laud*)
 
@@ -65,6 +65,8 @@ Work experience
         <ul>
             <li>C++</li>
             <li>JAGS / STAN</li>
+            <li>Git</li>
+            <li>Cluster Computing </li>
         </ul>
     </div>
     <div class="column">
@@ -72,15 +74,16 @@ Work experience
         <ul>
             <li>HTML 5</li>
             <li>CSS</li>
-            <li>Apache Spark</li>
             <li>Stata</li>
+            <li>Matlab</li>
+            <li>MPlus</li>
         </ul>
     </div>
 </div>
 
 <u>Conference Presentations</u>
 ======
-* Polmeth (2018, 2019)
+* Polmeth (2018, 2019, 2020)
 * Midwest Political Science Association Annual Meeting (2019)
 * Southern Political Science Association Annual Meeting (2015)
 
