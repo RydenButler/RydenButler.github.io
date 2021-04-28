@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Experience"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -18,7 +18,7 @@ redirect_from:
 }
 </style>
 
-[Download](http://rydenbutler.github.io/files/CV_Butler.pdf)
+[Download](http://rydenbutler.github.io/files/Resume_Butler.pdf)
 
 <u>Education</u>
 ======
