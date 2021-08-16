@@ -25,7 +25,7 @@ redirect_from:
 * Ph.D in Political Science --- Washington University in St. Louis (2021)
 * A.M. in Statistics --- Washington University in St. Louis (2021)
 * M.A. in Political Science --- Washington University in St. Louis  (2017)
-* B.A. in Political Science, History, Economics --- University of Miami (2015, *magna cum laud*)
+* B.A., triple major in Economics, History, Political Science (with honors) --- University of Miami (2015, *magna cum laud*)
 
 {% comment %}
 Work experience
@@ -58,6 +58,7 @@ Work experience
             <li>Python</li>
             <li>SQL</li>
             <li>LaTeX</li>
+            <li>Excel</li>
         </ul>
     </div>
     <div class="column">
