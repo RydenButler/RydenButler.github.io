@@ -24,7 +24,6 @@ redirect_from:
 ======
 * Ph.D. in Political Science --- Washington University in St. Louis (2021)
 * M.A. in Statistics --- Washington University in St. Louis (2021)
-* M.A. in Political Science --- Washington University in St. Louis  (2017)
 * B.A., triple major in Economics, History, Political Science (*with honors*) --- University of Miami (2015)
     - *magna cum laud*
     - *Phi Beta Kappa*
@@ -49,40 +48,6 @@ Work experience
   <ul>{% for post in site.portfolio %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-<u>Skills</u>
-======
-<div class='row'>
-<div class="column">
-        <h2>Expert:</h2>
-        <ul>
-            <li>R</li>
-            <li>Python</li>
-            <li>SQL</li>
-            <li>LaTeX</li>
-            <li>Excel</li>
-        </ul>
-    </div>
-    <div class="column">
-        <h2>Intermediate:</h2>
-        <ul>
-            <li>C++</li>
-            <li>JAGS / STAN</li>
-            <li>Git</li>
-            <li>Cluster Computing </li>
-        </ul>
-    </div>
-    <div class="column">
-        <h2>Familiar:</h2>
-        <ul>
-            <li>HTML 5</li>
-            <li>CSS</li>
-            <li>Stata</li>
-            <li>Matlab</li>
-            <li>MPlus</li>
-        </ul>
-    </div>
-</div>
 
 <u>Conference Presentations</u>
 ======
