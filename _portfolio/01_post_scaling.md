@@ -1,9 +1,0 @@
----
-title: "Campaign Dynamics, Primary Elections, and Extremism: Do U.S. Congressional Candidates Moderate Their Message After Winning Their Primary?"
-excerpt: "By analyzing the Facebook posts of candidates in the 2016 U.S. congressional election, I develop a continuous measure of the expressed ideological position of those candidates and evaluate whether the extremity of their positions shifts after a victorious primary contest."
-collection: portfolio
----
-
-Though candidates' messaging strategies are broadly characterized as dynamic, scant research directly examines how candidates modify the ideological extremity of their messages throughout the campaign. In this note, I argue that candidates who win their primaries should moderate their communications to target general-election voters in the period immediately following their primary election. To test this, I develop a continuous measure of the expressed ideological position of those candidates based on more than 200,000 Facebook posts from U.S. congressional candidates in the 2016 election. The measurement method extends existing network-based measures of ideology in an on-line framework to greatly increase the number of observations in the scaling process. Using a two-way fixed effects model that approximates a difference-in-differences strategy, I find that winning a competitive primary leads candidates to moderate their expressed ideology, but that this shift is modest relative to the baseline trend towards moderation among candidates without primary competition. 
-
-[Download paper here](http://rydenbutler.github.io/files/post_scaling.pdf)
