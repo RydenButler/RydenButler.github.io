@@ -1,6 +1,7 @@
 ---
 title: "The Epistemology of Fact Checking"
 collection: publications
+category: manuscripts
 permalink: /publication/fact_check
 excerpt: ''
 date: 2013-10-30

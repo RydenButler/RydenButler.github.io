@@ -1,6 +1,7 @@
 ---
 title: "Revisiting White Backlash: Does Race Affect Death Penalty Opinion?"
 collection: publications
+category: manuscripts
 permalink: /publication/backlash
 excerpt: ''
 date: 2018-01-25
