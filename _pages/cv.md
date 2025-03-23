@@ -43,11 +43,13 @@ Work experience
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+{% comment %}
 <u>Current Research</u>
 ======
   <ul>{% for post in site.portfolio %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  {% endcomment %}
 
 <u>Conference Presentations</u>
 ======
